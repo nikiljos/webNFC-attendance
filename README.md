@@ -4,10 +4,8 @@ Prototype of an NFC based attendance system based on [Web NFC API](https://devel
 ### Try it out
 [nikjos.in/webNFC-attendance](https://nikjos.in/webNFC-attendance/)
 <details>
-  <summary>📱 Works only in Android</summary>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_NFC_API#browser_compatibility">
-    <img width="684" alt="compatibility table" src="https://github.com/nikiljos/webNFC-attendance/assets/57913645/8c146b3c-9bc8-4a1b-a453-97936b324de4">
-  </a>
+  <summary>📱 Works only in Android devices with NFC</summary>
+  <img width="684" alt="compatibility table" src="https://github.com/nikiljos/webNFC-attendance/assets/57913645/8c146b3c-9bc8-4a1b-a453-97936b324de4">
 
 </details>
 
